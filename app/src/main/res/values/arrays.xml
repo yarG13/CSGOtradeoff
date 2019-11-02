@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="product_type">
+        <item>请选择类别</item>
+        <item>步枪</item>
+        <item>冲锋枪</item>
+        <item>刀</item>
+        <item>手套</item>
+    </string-array>
+</resources>
